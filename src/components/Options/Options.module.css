@@ -1,0 +1,18 @@
+.btnsection{
+    display: flex;
+    gap: 14px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid rgb(255, 191, 0);
+    border-radius: 3%;
+}
+
+.btnsection button{
+    background-color: rgb(174, 0, 255);
+    color: rgba(255, 255, 255, 0.902);
+    
+}
+.btnsection button:hover{
+    background-color: teal;
+}
