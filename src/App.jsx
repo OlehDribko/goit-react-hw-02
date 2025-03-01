@@ -2,9 +2,9 @@ import { useState, useEffect } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import Description from './componen/Description/Description'
-import Feedback from './componen/Feedback/FeedBack'
-import Options from './componen/Options/Options'
+import Description from './components/Description/Description'
+import Feedback from './components/Feedback/FeedBack'
+import Options from './components/Options/Options'
 
 
 function App() {
