@@ -1,5 +1,5 @@
 import React from "react";
-import style from './Options.module.css'
+import styles from "./Options.module.css";
 
 export default function Options({ feedback, onLeaveFeedback, onReset }) {
     const total = feedback.good + feedback.neutral + feedback.bad;
